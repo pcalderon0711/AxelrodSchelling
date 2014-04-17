@@ -1,4 +1,4 @@
-axelrod-culture-lattice
+Axelrod-Schelling Model on a Square Lattice
 =======================
 
-Axelrod-like dynamic culture model on a lattice.
+This is an implementation of a variation of Gracia-Lazaro's Axelrod-Schelling model.
